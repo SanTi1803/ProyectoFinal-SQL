@@ -17,6 +17,8 @@
 
 * **Vistas**: En este repositorio también encontrarás información sobre vistas, que son consultas predefinidas almacenadas como objetos virtuales en la base de datos.
 
+  Se exploraron también conceptos clave como la normalización de bases de datos y la relación entre tablas, proporcionando una comprensión completa de cómo diseñar y gestionar bases de datos relacionales de manera efectiva.
+
 
 ## Instrucciones de Uso
 
