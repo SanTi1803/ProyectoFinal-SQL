@@ -16,3 +16,12 @@
 * **Triggers:** Se incluye una sección dedicada a los triggers, los cuales son piezas de código que se activan automáticamente en respuesta a ciertos eventos en la base de datos, como inserciones de registros en una tabla específica.
 
 * **Vistas**: En este repositorio también encontrarás información sobre vistas, que son consultas predefinidas almacenadas como objetos virtuales en la base de datos.
+
+
+## Instrucciones de Uso
+
+Para sumergirte en este proyecto, sigue las instrucciones detalladas en el documento PDF adjunto. Puedes explorar la **base de datos**.
+
+¡Espero que encuentres este proyecto tan fascinante como lo fue para mí durante su creación! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
+
+¡Gracias por visitar y disfrutar del análisis de datos de TechStored en **SQL**
